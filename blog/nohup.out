@@ -1,0 +1,847 @@
+[2017-03-17 23:04:14 +0800] [15617] [INFO] Starting gunicorn 19.6.0
+[2017-03-17 23:04:14 +0800] [15617] [INFO] Listening at: http://127.0.0.1:7777 (15617)
+[2017-03-17 23:04:14 +0800] [15617] [INFO] Using worker: sync
+[2017-03-17 23:04:14 +0800] [15632] [INFO] Booting worker with pid: 15632
+[2017-03-17 23:04:14 +0800] [15633] [INFO] Booting worker with pid: 15633
+[2017-03-17 23:04:14 +0800] [15634] [INFO] Booting worker with pid: 15634
+[2017-03-17 23:04:14 +0800] [15635] [INFO] Booting worker with pid: 15635
+[2017-03-18 01:35:42 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:15632)
+[2017-03-18 01:35:43 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:15633)
+[2017-03-18 01:35:43 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:15634)
+[2017-03-18 01:35:43 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:15635)
+[2017-03-17 17:35:43 +0000] [15632] [INFO] Worker exiting (pid: 15632)
+[2017-03-17 17:35:43 +0000] [15633] [INFO] Worker exiting (pid: 15633)
+[2017-03-17 17:35:43 +0000] [15635] [INFO] Worker exiting (pid: 15635)
+[2017-03-17 17:35:43 +0000] [15634] [INFO] Worker exiting (pid: 15634)
+[2017-03-18 01:35:43 +0800] [17459] [INFO] Booting worker with pid: 17459
+[2017-03-18 01:35:43 +0800] [17461] [INFO] Booting worker with pid: 17461
+[2017-03-18 01:35:43 +0800] [17464] [INFO] Booting worker with pid: 17464
+[2017-03-18 01:35:43 +0800] [17465] [INFO] Booting worker with pid: 17465
+[2017-03-18 03:23:48 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17459)
+[2017-03-18 03:23:48 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17461)
+[2017-03-18 03:23:48 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17464)
+[2017-03-18 03:23:48 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17465)
+[2017-03-17 19:23:48 +0000] [17459] [INFO] Worker exiting (pid: 17459)
+[2017-03-17 19:23:48 +0000] [17465] [INFO] Worker exiting (pid: 17465)
+[2017-03-17 19:23:48 +0000] [17461] [INFO] Worker exiting (pid: 17461)
+[2017-03-17 19:23:48 +0000] [17464] [INFO] Worker exiting (pid: 17464)
+[2017-03-18 03:23:49 +0800] [17496] [INFO] Booting worker with pid: 17496
+[2017-03-18 03:23:49 +0800] [17497] [INFO] Booting worker with pid: 17497
+[2017-03-18 03:23:49 +0800] [17499] [INFO] Booting worker with pid: 17499
+[2017-03-18 03:23:49 +0800] [17501] [INFO] Booting worker with pid: 17501
+[2017-03-18 03:41:07 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17496)
+[2017-03-18 03:41:07 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17497)
+[2017-03-18 03:41:07 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17499)
+[2017-03-18 03:41:07 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17501)
+[2017-03-17 19:41:07 +0000] [17497] [INFO] Worker exiting (pid: 17497)
+[2017-03-17 19:41:07 +0000] [17496] [INFO] Worker exiting (pid: 17496)
+[2017-03-17 19:41:07 +0000] [17499] [INFO] Worker exiting (pid: 17499)
+[2017-03-17 19:41:07 +0000] [17501] [INFO] Worker exiting (pid: 17501)
+[2017-03-18 03:41:07 +0800] [17529] [INFO] Booting worker with pid: 17529
+[2017-03-18 03:41:07 +0800] [17530] [INFO] Booting worker with pid: 17530
+[2017-03-18 03:41:07 +0800] [17531] [INFO] Booting worker with pid: 17531
+[2017-03-18 03:41:07 +0800] [17532] [INFO] Booting worker with pid: 17532
+[2017-03-18 03:57:28 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17529)
+[2017-03-18 03:57:28 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17530)
+[2017-03-18 03:57:28 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17531)
+[2017-03-18 03:57:28 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17532)
+[2017-03-17 19:57:28 +0000] [17529] [INFO] Worker exiting (pid: 17529)
+[2017-03-17 19:57:28 +0000] [17530] [INFO] Worker exiting (pid: 17530)
+[2017-03-17 19:57:28 +0000] [17531] [INFO] Worker exiting (pid: 17531)
+[2017-03-17 19:57:28 +0000] [17532] [INFO] Worker exiting (pid: 17532)
+[2017-03-18 03:57:29 +0800] [17580] [INFO] Booting worker with pid: 17580
+[2017-03-18 03:57:29 +0800] [17581] [INFO] Booting worker with pid: 17581
+[2017-03-18 03:57:29 +0800] [17583] [INFO] Booting worker with pid: 17583
+[2017-03-18 03:57:29 +0800] [17586] [INFO] Booting worker with pid: 17586
+[2017-03-18 05:15:31 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17580)
+[2017-03-18 05:15:31 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17581)
+[2017-03-17 21:15:31 +0000] [17580] [INFO] Worker exiting (pid: 17580)
+[2017-03-18 05:15:31 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17583)
+[2017-03-18 05:15:31 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17586)
+[2017-03-17 21:15:31 +0000] [17581] [INFO] Worker exiting (pid: 17581)
+[2017-03-17 21:15:31 +0000] [17583] [INFO] Worker exiting (pid: 17583)
+[2017-03-17 21:15:31 +0000] [17586] [INFO] Worker exiting (pid: 17586)
+[2017-03-18 05:15:31 +0800] [17619] [INFO] Booting worker with pid: 17619
+[2017-03-18 05:15:31 +0800] [17620] [INFO] Booting worker with pid: 17620
+[2017-03-18 05:15:31 +0800] [17621] [INFO] Booting worker with pid: 17621
+[2017-03-18 05:15:31 +0800] [17622] [INFO] Booting worker with pid: 17622
+[2017-03-18 05:51:13 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17619)
+[2017-03-18 05:51:13 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17620)
+[2017-03-18 05:51:13 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17621)
+[2017-03-18 05:51:13 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17622)
+[2017-03-17 21:51:13 +0000] [17619] [INFO] Worker exiting (pid: 17619)
+[2017-03-17 21:51:13 +0000] [17621] [INFO] Worker exiting (pid: 17621)
+[2017-03-17 21:51:13 +0000] [17620] [INFO] Worker exiting (pid: 17620)
+[2017-03-17 21:51:13 +0000] [17622] [INFO] Worker exiting (pid: 17622)
+[2017-03-18 05:51:13 +0800] [17649] [INFO] Booting worker with pid: 17649
+[2017-03-18 05:51:13 +0800] [17650] [INFO] Booting worker with pid: 17650
+[2017-03-18 05:51:13 +0800] [17651] [INFO] Booting worker with pid: 17651
+[2017-03-18 05:51:13 +0800] [17652] [INFO] Booting worker with pid: 17652
+[2017-03-18 06:23:01 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17649)
+[2017-03-18 06:23:01 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17650)
+[2017-03-18 06:23:01 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17651)
+[2017-03-18 06:23:01 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17652)
+[2017-03-18 06:23:02 +0800] [17674] [INFO] Booting worker with pid: 17674
+[2017-03-18 06:23:02 +0800] [17679] [INFO] Booting worker with pid: 17679
+[2017-03-18 06:23:02 +0800] [17681] [INFO] Booting worker with pid: 17681
+[2017-03-18 06:23:02 +0800] [17682] [INFO] Booting worker with pid: 17682
+[2017-03-18 06:31:18 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17674)
+[2017-03-18 06:31:18 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17679)
+[2017-03-18 06:31:18 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17681)
+[2017-03-18 06:31:18 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17682)
+[2017-03-17 22:31:18 +0000] [17679] [INFO] Worker exiting (pid: 17679)
+[2017-03-17 22:31:18 +0000] [17674] [INFO] Worker exiting (pid: 17674)
+[2017-03-17 22:31:18 +0000] [17681] [INFO] Worker exiting (pid: 17681)
+[2017-03-17 22:31:18 +0000] [17682] [INFO] Worker exiting (pid: 17682)
+[2017-03-18 06:31:18 +0800] [17702] [INFO] Booting worker with pid: 17702
+[2017-03-18 06:31:18 +0800] [17703] [INFO] Booting worker with pid: 17703
+[2017-03-18 06:31:18 +0800] [17704] [INFO] Booting worker with pid: 17704
+[2017-03-18 06:31:18 +0800] [17705] [INFO] Booting worker with pid: 17705
+[2017-03-18 08:06:14 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17702)
+[2017-03-18 08:06:14 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17703)
+[2017-03-18 08:06:14 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17704)
+[2017-03-18 00:06:14 +0000] [17702] [INFO] Worker exiting (pid: 17702)
+[2017-03-18 00:06:14 +0000] [17703] [INFO] Worker exiting (pid: 17703)
+[2017-03-18 00:06:14 +0000] [17704] [INFO] Worker exiting (pid: 17704)
+[2017-03-18 08:06:14 +0800] [21947] [INFO] Booting worker with pid: 21947
+[2017-03-18 08:06:14 +0800] [21948] [INFO] Booting worker with pid: 21948
+[2017-03-18 08:06:14 +0800] [21949] [INFO] Booting worker with pid: 21949
+Internal Server Error: /api/blogs
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 226, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorvalue
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 217, in execute
+    res = self._query(query)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 378, in _query
+    rowcount = self._do_query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 341, in _do_query
+    db.query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 280, in query
+    _mysql.connection.query(self, query)
+_mysql_exceptions.OperationalError: (1054, "Unknown column 'blog.category_id' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/zhouligang/Projects/blog.ligulfzhou.com.django_react/blog/blog/api/views.py", line 24, in get
+    for blog in blogs:
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 256, in __iter__
+    self._fetch_all()
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 1087, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 54, in __iter__
+    results = compiler.execute_sql()
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 835, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 226, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorvalue
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 217, in execute
+    res = self._query(query)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 378, in _query
+    rowcount = self._do_query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 341, in _do_query
+    db.query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 280, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 'blog.category_id' in 'field list'")
+Internal Server Error: /api/blogs
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 226, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorvalue
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 217, in execute
+    res = self._query(query)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 378, in _query
+    rowcount = self._do_query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 341, in _do_query
+    db.query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 280, in query
+    _mysql.connection.query(self, query)
+_mysql_exceptions.OperationalError: (1054, "Unknown column 'blog.category_id' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/zhouligang/Projects/blog.ligulfzhou.com.django_react/blog/blog/api/views.py", line 24, in get
+    for blog in blogs:
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 256, in __iter__
+    self._fetch_all()
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 1087, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 54, in __iter__
+    results = compiler.execute_sql()
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 835, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 226, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorvalue
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 217, in execute
+    res = self._query(query)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 378, in _query
+    rowcount = self._do_query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 341, in _do_query
+    db.query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 280, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 'blog.category_id' in 'field list'")
+Internal Server Error: /api/blogs
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 226, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorvalue
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 217, in execute
+    res = self._query(query)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 378, in _query
+    rowcount = self._do_query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 341, in _do_query
+    db.query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 280, in query
+    _mysql.connection.query(self, query)
+_mysql_exceptions.OperationalError: (1054, "Unknown column 'blog.category_id' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/zhouligang/Projects/blog.ligulfzhou.com.django_react/blog/blog/api/views.py", line 24, in get
+    for blog in blogs:
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 256, in __iter__
+    self._fetch_all()
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 1087, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 54, in __iter__
+    results = compiler.execute_sql()
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 835, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 226, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorvalue
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 217, in execute
+    res = self._query(query)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 378, in _query
+    rowcount = self._do_query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 341, in _do_query
+    db.query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 280, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 'blog.category_id' in 'field list'")
+Internal Server Error: /api/blogs
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 226, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorvalue
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 217, in execute
+    res = self._query(query)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 378, in _query
+    rowcount = self._do_query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 341, in _do_query
+    db.query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 280, in query
+    _mysql.connection.query(self, query)
+_mysql_exceptions.OperationalError: (1054, "Unknown column 'blog.category_id' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/zhouligang/Projects/blog.ligulfzhou.com.django_react/blog/blog/api/views.py", line 24, in get
+    for blog in blogs:
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 256, in __iter__
+    self._fetch_all()
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 1087, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 54, in __iter__
+    results = compiler.execute_sql()
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 835, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 226, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorvalue
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 217, in execute
+    res = self._query(query)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 378, in _query
+    rowcount = self._do_query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 341, in _do_query
+    db.query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 280, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 'blog.category_id' in 'field list'")
+Not Found: /favicon.ico
+Internal Server Error: /api/blogs
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 226, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorvalue
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 217, in execute
+    res = self._query(query)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 378, in _query
+    rowcount = self._do_query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 341, in _do_query
+    db.query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 280, in query
+    _mysql.connection.query(self, query)
+_mysql_exceptions.OperationalError: (1054, "Unknown column 'blog.category_id' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/zhouligang/Projects/blog.ligulfzhou.com.django_react/blog/blog/api/views.py", line 24, in get
+    for blog in blogs:
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 256, in __iter__
+    self._fetch_all()
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 1087, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 54, in __iter__
+    results = compiler.execute_sql()
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 835, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 226, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorvalue
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 217, in execute
+    res = self._query(query)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 378, in _query
+    rowcount = self._do_query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 341, in _do_query
+    db.query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 280, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 'blog.category_id' in 'field list'")
+[2017-03-18 09:00:03 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:17705)
+[2017-03-18 09:00:03 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:21947)
+[2017-03-18 09:00:03 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:21949)
+[2017-03-18 01:00:03 +0000] [21947] [INFO] Worker exiting (pid: 21947)
+[2017-03-18 01:00:03 +0000] [21949] [INFO] Worker exiting (pid: 21949)
+[2017-03-18 01:00:03 +0000] [17705] [INFO] Worker exiting (pid: 17705)
+[2017-03-18 09:00:03 +0800] [28760] [INFO] Booting worker with pid: 28760
+[2017-03-18 09:00:03 +0800] [28763] [INFO] Booting worker with pid: 28763
+[2017-03-18 09:00:04 +0800] [28764] [INFO] Booting worker with pid: 28764
+[2017-03-18 10:00:32 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:21948)
+[2017-03-18 10:00:32 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:28760)
+[2017-03-18 10:00:32 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:28763)
+[2017-03-18 10:00:32 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:28764)
+[2017-03-18 02:00:32 +0000] [21948] [INFO] Worker exiting (pid: 21948)
+[2017-03-18 02:00:32 +0000] [28764] [INFO] Worker exiting (pid: 28764)
+[2017-03-18 02:00:32 +0000] [28763] [INFO] Worker exiting (pid: 28763)
+[2017-03-18 02:00:32 +0000] [28760] [INFO] Worker exiting (pid: 28760)
+[2017-03-18 10:00:33 +0800] [34444] [INFO] Booting worker with pid: 34444
+[2017-03-18 10:00:33 +0800] [34445] [INFO] Booting worker with pid: 34445
+[2017-03-18 10:00:33 +0800] [34446] [INFO] Booting worker with pid: 34446
+[2017-03-18 10:00:33 +0800] [34447] [INFO] Booting worker with pid: 34447
+Internal Server Error: /api/blogs
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 226, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorvalue
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 217, in execute
+    res = self._query(query)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 378, in _query
+    rowcount = self._do_query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 341, in _do_query
+    db.query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 280, in query
+    _mysql.connection.query(self, query)
+_mysql_exceptions.OperationalError: (1054, "Unknown column 'blog.category_id' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/zhouligang/Projects/blog.ligulfzhou.com.django_react/blog/blog/api/views.py", line 24, in get
+    for blog in blogs:
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 256, in __iter__
+    self._fetch_all()
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 1087, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 54, in __iter__
+    results = compiler.execute_sql()
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 835, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 226, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorvalue
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 217, in execute
+    res = self._query(query)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 378, in _query
+    rowcount = self._do_query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/cursors.py", line 341, in _do_query
+    db.query(q)
+  File "/usr/local/lib/python3.6/site-packages/MySQLdb/connections.py", line 280, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 'blog.category_id' in 'field list'")
+[2017-03-18 11:10:01 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:34444)
+[2017-03-18 11:10:02 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:34445)
+[2017-03-18 11:10:02 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:34446)
+[2017-03-18 11:10:02 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:34447)
+[2017-03-18 03:10:02 +0000] [34447] [INFO] Worker exiting (pid: 34447)
+[2017-03-18 03:10:02 +0000] [34446] [INFO] Worker exiting (pid: 34446)
+[2017-03-18 03:10:02 +0000] [34444] [INFO] Worker exiting (pid: 34444)
+[2017-03-18 03:10:02 +0000] [34445] [INFO] Worker exiting (pid: 34445)
+[2017-03-18 11:10:02 +0800] [36711] [INFO] Booting worker with pid: 36711
+[2017-03-18 11:10:02 +0800] [36712] [INFO] Booting worker with pid: 36712
+[2017-03-18 11:10:02 +0800] [36713] [INFO] Booting worker with pid: 36713
+[2017-03-18 11:10:02 +0800] [36714] [INFO] Booting worker with pid: 36714
+Not Found: /
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /
+Not Found: /static/admin/css/forms.css
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/change_form.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/js/prepopulate_init.js
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/js/change_form.js
+Not Found: /static/admin/js/prepopulate_init.js
+Not Found: /static/admin/css/forms.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/base.css
+Not Found: /
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/base.css
+[2017-03-18 11:37:37 +0800] [45493] [INFO] Booting worker with pid: 45493
+[2017-03-18 11:38:16 +0800] [45985] [INFO] Booting worker with pid: 45985
+[2017-03-18 11:40:03 +0800] [46269] [INFO] Booting worker with pid: 46269
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/css/changelists.css
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/base.css
+Not Found: /adminapi/category/
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/changelists.css
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/css/changelists.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /adminapi/category/
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/changelists.css
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /adminapi/category/add/
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/css/forms.css
+Not Found: /static/admin/js/prepopulate_init.js
+Not Found: /static/admin/js/change_form.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/js/change_form.js
+Not Found: /static/admin/js/prepopulate_init.js
+Not Found: /adminapi/category/add/
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/css/forms.css
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/js/change_form.js
+Not Found: /static/admin/js/prepopulate_init.js
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/js/change_form.js
+Not Found: /static/admin/js/prepopulate_init.js
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/changelists.css
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /adminapi/category/2/change/
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/forms.css
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/js/change_form.js
+Not Found: /static/admin/js/prepopulate_init.js
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/js/change_form.js
+Not Found: /static/admin/js/prepopulate_init.js
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/forms.css
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/change_form.js
+Not Found: /static/admin/js/prepopulate_init.js
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/js/change_form.js
+Not Found: /static/admin/js/prepopulate_init.js
+[2017-03-18 11:42:47 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:36712)
+[2017-03-18 11:42:47 +0800] [15617] [CRITICAL] WORKER TIMEOUT (pid:46269)
+[2017-03-18 03:42:47 +0000] [36712] [INFO] Worker exiting (pid: 36712)
+[2017-03-18 03:42:47 +0000] [46269] [INFO] Worker exiting (pid: 46269)
+[2017-03-18 11:42:47 +0800] [46354] [INFO] Booting worker with pid: 46354
+[2017-03-18 11:42:47 +0800] [46355] [INFO] Booting worker with pid: 46355
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/css/forms.css
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/change_form.js
+Not Found: /static/admin/js/prepopulate_init.js
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/js/change_form.js
+Not Found: /static/admin/js/prepopulate_init.js
+Not Found: /static/admin/css/forms.css
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/change_form.js
+Not Found: /static/admin/js/prepopulate_init.js
+Not Found: /static/admin/js/core.js
+Not Found: /static/admin/js/vendor/jquery/jquery.js
+Not Found: /static/admin/js/jquery.init.js
+Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+Not Found: /static/admin/js/actions.js
+Not Found: /static/admin/js/urlify.js
+Not Found: /static/admin/js/prepopulate.js
+Not Found: /static/admin/js/vendor/xregexp/xregexp.js
+Not Found: /static/admin/js/change_form.js
+Not Found: /static/admin/js/prepopulate_init.js

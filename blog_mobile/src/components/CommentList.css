@@ -1,0 +1,32 @@
+.row {
+    padding: 0 0.3rem;
+    background-color: white;
+}
+.row-title {
+    height: 1rem;
+    line-height: 1rem;
+    color: #888;
+    font-size: 0.36rem;
+    border-bottom: 1px solid #F6F6F6;
+}
+.row-text {
+    display: inline-block;
+    font-size: 0.32rem;
+    line-height: 1;
+}
+
+.comment_container {
+    box-shadow: 1 red;
+    border: 1 solid black;
+}
+
+.comment_username {
+    font-size: 0.32rem;
+    padding: 0.2rem;
+}
+
+.comment_content {
+    font-size: 0.5rem;
+    padding: 0.2rem;
+}
+
